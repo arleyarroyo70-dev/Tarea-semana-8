@@ -1,0 +1,6 @@
+Buenas prácticas para plataformas comunitarias:
+1. No exponer datos personales innecesarios.
+2. Proteger credenciales y usar autenticación segura.
+3. Usar conexiones cifradas (HTTPS) y comunicaciones seguras.
+4. Registrar accesos y mantener auditorías de actividad.
+5. Limitar permisos y aplicar el principio de mínimo privilegio.

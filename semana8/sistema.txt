@@ -1,0 +1,11 @@
+Qué muestra cada comando:
+- `uname -a`: muestra información del kernel, nombre del host, versión del kernel, arquitectura y otras banderas del sistema.
+- `whoami`: muestra el nombre del usuario que está ejecutando la sesión actual.
+
+Por qué es útil conocer información del sistema cuando se administra un servidor:
+- Permite identificar la versión del kernel y la arquitectura para instalar paquetes compatibles.
+- Ayuda a verificar en qué usuario se están ejecutando procesos y a depurar permisos.
+- Facilita la recopilación de datos para soporte y auditoría.
+
+Salida de los comandos (se completará tras ejecutar `uname -a` y `whoami`):
+[OUTPUT_PLACEHOLDER]
